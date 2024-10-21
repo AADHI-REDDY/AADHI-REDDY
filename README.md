@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Chenna Nagesh</h1>
+<h1 align="center">Hi 👋, I'm IRIGELA AADHI BHARGAV REDDY</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenna-nagesh&label=Profile%20views&color=0e75b6&style=flat" alt="chenna-nagesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AADHI-REDDY&label=Profile%20views&color=0e75b6&style=flat" alt="AADHI-REDDY" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenna-nagesh" alt="chenna-nagesh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AADHI-REDDY" alt="AADHI-REDDY" /></a> </p>
 
-- 🔭 I’m currently working on **DATA STRUCTURES AND ALGORITHMS**
+- 🔭 I’m currently working on **JAVA**
 
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
+- 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CHENNA-NAGESH](https://github.com/CHENNA-NAGESH)
+- 👨‍💻 All of my projects are available at [https://github.com/AADHI-REDDY](https://github.com/AADHI-REDDY)
 
-- 💬 Ask me about **C,C++,PYTHON,HTML,CSS**
+- 💬 Ask me about **C,C++,PYTHON,HTML,CSS,JAVA**
 
-- 📫 How to reach me **nageshch9966@gmail.com**
+- 📫 How to reach me **adhibhargavreddy8500@gmail.com**
 
 - ⚡ Fun fact **I think i am silly**
 
